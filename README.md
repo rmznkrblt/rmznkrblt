@@ -26,5 +26,5 @@
 
 You can find and get touch with me via Linkedin and Instagram!
 
-[![Linkedin Badge](https://img.shields.io/badge/RAMAZAN_KARABULUT-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ramazankarabulut)
+[![Linkedin Badge](https://img.shields.io/badge/RAMAZAN_KARABULUT-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ramazankarabulut/)
 [![Instagram Badge](https://img.shields.io/badge/RAMAZAN_KARABULUT-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/rmznnkrblt/)
