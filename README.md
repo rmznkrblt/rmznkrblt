@@ -28,7 +28,7 @@ You can find and get touch with me via Linkedin and Instagram!
 <p align="center">
   <a href="https://www.linkedin.com/in/gulceselim/" target="_blank" rel="nofollow"><img alt="Selim's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:gulceselim6@gmail.com" target="_blank" rel="nofollow"><img alt="Selim's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:gulceselim6@gmail.com" target="_blank" rel="nofollow"><img alt="Selim's Mail Address" src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:gulceselim6@gmail.com" target="_blank" rel="nofollow"><img alt="Selim's Mail Address" src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=brown" /></a>
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/RAMAZAN_KARABULUT-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ramazankarabulut/)
