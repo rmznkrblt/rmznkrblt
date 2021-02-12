@@ -5,9 +5,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/rmznkrblt/rmznkrblt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmznkrblt&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="rmznkrblt's GitHub Stats" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmznkrblt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/rmznkrblt/rmznkrblt">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rmznkrblt&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="rmznkrblt's GitHub Stats" />
@@ -19,15 +17,12 @@
 
 ### 🧑‍💻  This week, I spent my time on:
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?rmznkrblt=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rmznkrblt)](https://github.com/rmznkrblt/github-readme-stats)
 
 
 ## Contact Me 📫
 
 You can find and get touch with me via Linkedin and Instagram!
-<p align="center">
-  
- [![Linkedin Badge](https://img.shields.io/badge/RAMAZAN_KARABULUT-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ramazankarabulut/)
-[![Instagram Badge](https://img.shields.io/badge/RAMAZAN_KARABULUT-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rmznnkrblt/)
 
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/RAMAZAN_KARABULUT-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ramazankarabulut/)
+[![Instagram Badge](https://img.shields.io/badge/RAMAZAN_KARABULUT-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/rmznnkrblt/)
