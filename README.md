@@ -14,12 +14,6 @@
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rmznkrblt&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🧑‍💻  This week, I spent my time on:
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rmznkrblt)](https://github.com/rmznkrblt/github-readme-stats)
-
-
 ## Contact Me 📫
 
 You can find and get touch with me via Linkedin and Instagram!
