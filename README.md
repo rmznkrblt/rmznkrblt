@@ -1,4 +1,4 @@
-![Ramazan Karabulut](https://user-images.githubusercontent.com/32045100/109292449-70743680-783b-11eb-9fff-a8be7df0b484.png)
+![Ramazan Karabulut](https://user-images.githubusercontent.com/32045100/109295491-e5496f80-783f-11eb-89d0-a3ee466bf44c.png)
 
 # Hello there 👋
 
