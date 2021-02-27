@@ -1,4 +1,4 @@
-![Ramazan Karabulut](https://user-images.githubusercontent.com/32045100/109295491-e5496f80-783f-11eb-89d0-a3ee466bf44c.png)
+![https://github.com/rmznkrblt/Profile-Banner](https://github.com/rmznkrblt/rmznkrblt/blob/main/ramazan%20karabulut.gif)
 
 # Hello there 👋
 
