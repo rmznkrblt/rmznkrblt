@@ -2,6 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/rmznkrblt?style=social)](https://github.com/rmznkrblt?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/rmznkrblt?style=social)
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rmznkrblt.rmznkrblt)
 
 # Hello there 👋
@@ -13,7 +14,7 @@ Contact with me via these platforms!
 <a href="https://www.linkedin.com/in/ramazankarabulut/"><img alt="Medium" src="https://img.shields.io/badge/medium%20-black.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://www.instagram.com/rmznnkrblt/"><img alt="Instagram" src="https://img.shields.io/badge/@rmznnkrblt%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/Nimbus1996_"><img alt="Twitter" src="https://img.shields.io/badge/@rmznkrblt%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="mailto:r.karabulut@outlook.com.tr" target="_blank" rel="nofollow"><img alt="Ramazan's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:r.karabulut@outlook.com.tr" target="_blank" rel="nofollow"><img alt="Ramazan's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
 
 
 
@@ -43,8 +44,5 @@ Contact with me via these platforms!
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rmznkrblt&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-## Contact Me 📫
-
-You can find and get touch with me via Linkedin and Instagram!
 
 
