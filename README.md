@@ -2,7 +2,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/rmznkrblt?style=social)](https://github.com/rmznkrblt?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/rmznkrblt?style=social)
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rmznkrblt.rmznkrblt)
 
 # Hello there 👋
