@@ -12,6 +12,7 @@
 <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
+<img src="https://img.shields.io/badge/javascript-0078D6?style=for-the-badge&logo=javascript&logoColor=white"></img>
 
 ## &#x1f4c8; GitHub Stats
 
