@@ -37,8 +37,9 @@ Contact with me via these platforms!
 <a href="https://github.com/rmznkrblt/rmznkrblt"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rmznkrblt&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="rmznkrblt's GitHub Stats" />
 </a>
 
+<!---
 ## 🏆 GitHub Trophies
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=rmznkrblt&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 
