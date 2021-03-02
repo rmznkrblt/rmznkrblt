@@ -45,7 +45,7 @@ Contact with me via these platforms!
     🔭 I’m currently working on:
     <br />
     <br />
-<a href="https://github.com/rayyansaidi-com/app"><img alt="rayyansaidi-com/app" src="https://github-readme-stats.vercel.app/api/pin/?username=rmznkrblt&repo=CarRental-ReCapProject&show_owner=true&cache_seconds=1800&theme=great-gatsby" /></a>
+<a href="https://github.com/rayyansaidi-com/app"><img alt="rayyansaidi-com/app" src="https://github-readme-stats.vercel.app/api/pin?username=rmznkrblt&repo=CarRental-ReCapProject&show_owner=true&cache_seconds=1800&theme=great-gatsby" /></a>
    </li>
    <br />
    <br />
