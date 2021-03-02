@@ -53,27 +53,9 @@ Contact with me via these platforms!
     🌱 I’m currently learning:
     <br />
     <br />
-<a href="https://github.com/rmznkrblt/KampFinalProject"><img alt="react" src="https://github-readme-stats.nthnchu.vercel.app/api/pin?username=engindemirog&repo=
+<a href="https://github.com/rmznkrblt/KampFinalProject"><img alt="ASP.Net" src="https://github-readme-stats.nthnchu.vercel.app/api/pin?username=engindemirog&repo=
 KampFinalProject&cache_seconds=1800&theme=great-gatsby" /></a>
    </li>
-   <!--<li>
-    👯 I’m looking to collaborate on ...
-   </li>
-   <li>
-    🤔 I’m looking for help with ...
-   </li>
-   <li>
-    💬 Ask me about ...
-   </li>
-   <li>
-    📫 How to reach me: ...
-   </li>
-   <li>
-    😄 Pronouns: ...
-   </li>
-   <li>
-    ⚡ Fun fact: ...
-   </li>-->
   </ul>
  </b>
 </div>
