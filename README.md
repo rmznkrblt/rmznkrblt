@@ -36,7 +36,7 @@ Contact with me via these platforms!
 <a href="https://github.com/rmznkrblt/rmznkrblt"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rmznkrblt&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="rmznkrblt's GitHub Stats" />
 </a>
 
-<img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=rmznkrblt&cache_seconds=1800&layout=compact&theme=great-gatsby"/>
+<img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=rmznkrblt&cache_seconds=1800&layout=compact&theme=great-gatsby&v=2"/>
 
 <!---
 ## 🏆 GitHub Trophies
