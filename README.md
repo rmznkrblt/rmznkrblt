@@ -45,7 +45,7 @@ Contact with me via these platforms!
     🔭 I’m currently working on:
     <br />
     <br />
-<a href="https://github.com/engindemirog/KampFinalProject"><img alt="ASP.Net" src="https://github-readme-stats.nthnchu.vercel.app/api/pin?username=rmznkrblt&repo=CarRental-ReCapProject&cache_seconds=1800&theme=great-gatsby"/></a>
+<a href="https://github.com/rmznkrblt/CarRental-ReCapProject"><img alt="CarRental" src="https://github-readme-stats.nthnchu.vercel.app/api/pin?username=rmznkrblt&repo=CarRental-ReCapProject&cache_seconds=1800&theme=great-gatsby"/></a>
    </li>
    <br />
    <br />
