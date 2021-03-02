@@ -53,8 +53,8 @@ Contact with me via these platforms!
     🌱 I’m currently learning:
     <br />
     <br />
-<a href="https://github.com/rmznkrblt/KampFinalProject"><img alt="ASP.Net" src="https://github-readme-stats.nthnchu.vercel.app/api/pin?username=engindemirog&repo=
-KampFinalProject&cache_seconds=1800&theme=great-gatsby" /></a>
+<a href="https://github.com/engindemirog/KampFinalProject"><img alt="ASP.Net" src="https://github-readme-stats.nthnchu.vercel.app/api/pin?username=engindemirog&repo=
+KampFinalProject&cache_seconds=1800&theme=great-gatsby"/></a>
    </li>
   </ul>
  </b>
