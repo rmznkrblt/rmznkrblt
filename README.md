@@ -36,6 +36,47 @@ Contact with me via these platforms!
 <a href="https://github.com/rmznkrblt/rmznkrblt"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rmznkrblt&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="rmznkrblt's GitHub Stats" />
 </a>
 
+[![Ramazan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rmznkrblt&layout=compact)](https://github.com/rmznkrblt/github-readme-stats)
+
+ <br />
+ <b>
+  <ul>
+   <li>
+    🔭 I’m currently working on:
+    <br />
+    <br />
+    <a href="https://github.com/rayyansaidi-com/app"><img alt="rayyansaidi-com/app" src="https://github-readme-stats.nthnchu.vercel.app/api/pin?username=rmznkrblt&repo=CarRental-ReCapProject&show_owner=true&cache_seconds=1800&theme=great-gatsby" /></a>
+   </li>
+   <br />
+   <br />
+   <li>
+    🌱 I’m currently learning:
+    <br />
+    <br />
+    <a href="https://github.com/rmznkrblt/KampFinalProject"><img alt="react" src="https://github-readme-stats.nthnchu.vercel.app/api/pin?username=engindemirog&repo=
+KampFinalProject&cache_seconds=1800&theme=great-gatsby" /></a>
+   </li>
+   <!--<li>
+    👯 I’m looking to collaborate on ...
+   </li>
+   <li>
+    🤔 I’m looking for help with ...
+   </li>
+   <li>
+    💬 Ask me about ...
+   </li>
+   <li>
+    📫 How to reach me: ...
+   </li>
+   <li>
+    😄 Pronouns: ...
+   </li>
+   <li>
+    ⚡ Fun fact: ...
+   </li>-->
+  </ul>
+ </b>
+</div>
 <!---
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=rmznkrblt&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
