@@ -10,7 +10,7 @@ Contact with me via these platforms!
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ramazankarabulut/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ramazankarabulut/"><img alt="Medium" src="https://img.shields.io/badge/medium%20-black.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
+<!--<a href="https://www.linkedin.com/in/ramazankarabulut/"><img alt="Medium" src="https://img.shields.io/badge/medium%20-black.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>-->
   <a href="mailto:r.karabulut@outlook.com.tr" target="_blank" rel="nofollow"><img alt="Ramazan's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
 
 
